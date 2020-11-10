@@ -10,6 +10,5 @@ namespace HjælpLone
     interface iWitch : iShieldBearer, iTeleportable
     {
 
-
     }
 }
